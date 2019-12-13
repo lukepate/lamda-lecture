@@ -1,5 +1,6 @@
 # Lamda Portfolio Lecture
 
+## Steps
 1. Clone Repo
 2. Create Repo and push code
 3. Host the Website with Surge
