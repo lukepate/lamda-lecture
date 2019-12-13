@@ -76,6 +76,8 @@ Unordered
 Ordered
 
 1. Clone Repo
+  - https://github.com/lukepate/lamda-lecture-clone
+
 2. Create Repo and push code
 3. Host the Website with Surge
 4. Gitflow / feature branch and make edit to website
